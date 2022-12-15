@@ -55,5 +55,5 @@
 
 <h3> Programming anguages </h3>
 <div>
-  <img src='Images/pythonLogo.png' height='15px'> &nbsp; Python 
+<img src='Images/pythonLogo.png' height='15px'> &nbsp; Python 
 </div>
