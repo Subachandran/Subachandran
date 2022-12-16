@@ -7,49 +7,40 @@
  - <b>Graduation:</b> B.Tech-Bioinformatics, SASTRA University
  - <b>Interests:</b> Web Development, Programming, Debugging
  - <b>Location:</b> Tamil Nadu, India
-
+ - <b>Currently:</b> Learning ReactJS, Seeking for job.
 <br>
 <h2><img src='Images/skillLogo.png' width='40px'> &nbsp; Skills </h2>
 
 <h3> Front-End </h3>
-<div>
+<div valign='center'>
   <img src='Images/html.png' height='15px'> &nbsp; HTML 
-</div>
-<div>
+&nbsp; &nbsp; &nbsp;
   <img src='Images/css.png' height='15px'> &nbsp; CSS 
-</div>
-<div>
+&nbsp; &nbsp; &nbsp;
   <img src='Images/js.png' height='15px'> &nbsp; JavaScript 
-</div>
-<div>
+&nbsp; &nbsp; &nbsp;
   <img src='Images/jquery.png' height='15px'> &nbsp; jQuery 
-</div>
-<div>
+&nbsp; &nbsp; &nbsp;
   <img src='Images/bootstrap.png' height='15px'> &nbsp; Bootstrap 
 </div>
 
 <h3> Back-End </h3>
 <div>
   <img src='Images/nodejs.png' height='15px'> &nbsp; Node-JS 
-</div>
-<div>
+&nbsp; &nbsp; &nbsp;
   <img src='Images/express.png' height='15px'> &nbsp; Express
-</div>
-<div>
+&nbsp; &nbsp; &nbsp;
   <img src='Images/ejs.png' height='15px'> &nbsp; EJS
-</div>
-<div>
+&nbsp; &nbsp; &nbsp;
   <img src='Images/php.png' height='15px'> &nbsp; PHP
 </div>
 
 <h3> Database </h3>
 <div>
   <img src='Images/mongodb.png' height='15px'> &nbsp; MongoDB 
-</div>
-<div>
+&nbsp; &nbsp; &nbsp;
   <img src='Images/mysql.png' height='15px'> &nbsp; MySQL
-</div>
-<div>
+&nbsp; &nbsp; &nbsp;
   <img src='Images/oracle.png' height='15px'> &nbsp; Oracle SQL
 </div>
 
