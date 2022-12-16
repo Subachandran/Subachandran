@@ -1,6 +1,6 @@
 <h1 align='center'> Hi there! I'm Subachandran <img src='https://raw.githubusercontent.com/Subachandran/Subachandran/main/Images/handWave.png' width='40px'> </h1>
 
-<h2><img src='https://raw.githubusercontent.com/Subachandran/Subachandran/main/https://raw.githubusercontent.com/Subachandran/Subachandran/main/Images/aboutmeLogo.png' width='40px'> &nbsp;  About Me</h2>
+<h2><img src='https://raw.githubusercontent.com/Subachandran/Subachandran/main/Images/aboutmeLogo.png' width='40px'> &nbsp;  About Me</h2>
 
  I'm a programmer with lot of passion towards solving problems and learning new technologies. I love to explore different languages and frameworks and always eager to try new things.
  
@@ -28,7 +28,7 @@
 <div>
   <img src='https://raw.githubusercontent.com/Subachandran/Subachandran/main/Images/nodejs.png' height='15px'> &nbsp; Node-JS 
 &nbsp; &nbsp; &nbsp;
-  <img src='https://raw.githubusercontent.com/Subachandran/Subachandran/main/Images/express.png' height='15px'> &nbsp; Express
+  <img src='https://raw.githubusercontent.com/Subachandran/Subachandran/main/Images/ex.png' height='17px'> &nbsp; Express
 &nbsp; &nbsp; &nbsp;
   <img src='https://raw.githubusercontent.com/Subachandran/Subachandran/main/Images/ejs.png' height='15px'> &nbsp; EJS
 &nbsp; &nbsp; &nbsp;
