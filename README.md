@@ -7,7 +7,7 @@
  - <b>Graduation:</b> B.Tech-Bioinformatics, SASTRA University
  - <b>Interests:</b> Web Development, Programming, Debugging
  - <b>Location:</b> Tamil Nadu, India
- - <b>Currently:</b> Learning ReactJS, Seeking for job.
+ - <b>Currently:</b> Learning ReactJS, Seeking for job opportunity.
 <br>
 <h2><img src='Images/skillLogo.png' width='40px'> &nbsp; Skills </h2>
 
@@ -52,9 +52,9 @@
 <br>
 <h2> <img src='Images/handShake.png' width='40px'> &nbsp; Let's connect</h2>
 <p>
-<img src='Images/gmail.png' height='20px'> &nbsp;  jksubi@gmail.com
+<img src='Images/gmail.png' height='20px'> &nbsp;  <a href='mailto:jksubachandran@gmail.com'>jksubachandran@gmail.com</a>
 <br><br>
-<img src='Images/linkedin.png' height='20px'> &nbsp;  in/SubachandranJK
+<img src='Images/linkedin.png' height='20px'> &nbsp;  <a href='https://www.linkedin.com/in/subachandranjk/'>SubachandranJK</a>
 <br><br> 
-<img src='Images/twitter.png' height='20px'> &nbsp;  twitter/SubachandranJK
+<img src='Images/twitter.png' height='20px'> &nbsp;  <a href='https://twitter.com/SubachandranJK'>SubachandranJK</a>
 </p>
