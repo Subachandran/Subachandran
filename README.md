@@ -1,6 +1,6 @@
-<h1 align='center'> Hi there! I'm Subachandran <img src='Images/wave.gif' width='40px'> </h1>
+<h1 align='center'> Hi there! I'm Subachandran <img src='Images/handWave.png' width='40px'> </h1>
 
-<h2><img src='Images/aboutmeLogo.png' width='40px'> &nbsp; About Me </h2>
+<h2><img src='Images/aboutmeLogo.png' width='40px'> &nbsp;  About Me</h2>
 
  I'm a programmer with lot of passion towards solving problems and learning new technologies. I love to explore different languages and frameworks and always eager to try new things.
  
@@ -48,3 +48,13 @@
 <div>
 <img src='Images/python.png' height='15px'> &nbsp; Python 
 </div>
+
+<br>
+<h2> <img src='Images/handShake.png' width='40px'> &nbsp; Let's connect</h2>
+<p>
+<img src='Images/gmail.png' height='20px'> &nbsp;  jksubi@gmail.com
+<br><br>
+<img src='Images/linkedin.png' height='20px'> &nbsp;  in/SubachandranJK
+<br><br> 
+<img src='Images/twitter.png' height='20px'> &nbsp;  twitter/SubachandranJK
+</p>
