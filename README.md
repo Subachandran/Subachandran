@@ -9,7 +9,7 @@
  - <b>Location:</b> Tamil Nadu, India
  - <b>Currently:</b> Learning ReactJS, Seeking for job opportunity.
 <br>
-<h2><img src='https://raw.githubusercontent.com/Subachandran/Subachandran/main/Images/skillLogo.png' width='40px'> &nbsp; Skills </h2>![pngaaa com-4547668](https://user-images.githubusercontent.com/29690850/208710840-6596430d-899b-4ee5-a4d8-a8b51862daec.png)
+<h2><img src='https://raw.githubusercontent.com/Subachandran/Subachandran/main/Images/skillLogo.png' width='40px'> &nbsp; Skills </h2>
 
 
 <h3> Front-End </h3>
